@@ -15,7 +15,7 @@ TEL: +852 54284161 \ +86 18933361785
 **The Hong Kong University of Science and Technology, Hong Kong, PRC (2020-2024)**  
 *Bachelor of Engineering, Major in Computer Science, additional major in Economics*
 
-[Course History](./CourseHistory.md)
+<!-- [Course History](./CourseHistory.md) -->
 
 ## Acedemic Awards
 

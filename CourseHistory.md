@@ -1,4 +1,4 @@
-[Home](./index.md)
+<!-- [Home](./index.md) -->
 
 **This is my course history and some relevant information.**
 
