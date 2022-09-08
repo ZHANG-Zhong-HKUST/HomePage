@@ -65,9 +65,25 @@
 |:--:|:---|:--:|:---|
 |COMP1029V|Excel VBA Programming Bridging Course|1||
 |SOSC1960 (Transfer)|Psychology and Life|3||
-|ECON4000 (Transfer)|China's Modern Economy|4|
+|ECON4000 (Transfer)|China's Modern Economy|4||
 |Total||8||
 
 ### Spring
 
 Study leave for Internship.
+
+## Year3 (2022-2023)
+
+### Fall
+
+|Course Code|Course Title|Credits|More|
+|:--:|:---|:--:|:---|
+|COMP3511|Operating Systems|3||
+|COMP3711|Design and Analysis of Algorithms|3||
+|COMP5331|Knowledge Discovery in Databases|3||
+|ECON3014|Managerial Microeconomics|4||
+|ECON3334|Introduction to Econometrics|4||
+|LABU2040|Business Case Analyses|3||
+|MGMT2010|Business Ethics and the Individual|2||
+|UROP1100H|Undergraduate Research Opportunities Series 1|1||
+|Total||23||
